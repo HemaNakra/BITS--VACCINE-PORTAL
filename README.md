@@ -42,7 +42,7 @@ This, while being a near-perfect solution, still left out certain edge cases. Fo
 
 Having sorted out the logic and functioning of the portal, we now needed to devise a clean and easy-to-use interface for both the student body and the admin personnel at SWD. Thus, we built two separate portals — https://vaccination.bits-dvm.org for the student body, and https://vaccination-admin.bits-dvm.org for SWD.
 
-<img src="https://i.imgur.com/LKQbhCm.png" alt="BITS Vaccine Portal — Students" style="width:80%;"/>
+<img src="./API Documentation- Final_files/Hema.png" alt="BITS Vaccine Portal — Students" style="width:80%;"/>
 
 The student portal is a clean interface that allows only certain batches to access the portal at one time. Once approved students log in with their BITS email, they can quickly see their vaccination status. They are then able to upload their vaccine certificate, signed parents consent form, date of arrival, location, and agree to certain health declarations. Once they add all their details, the lightning-fast portal updates instantly with the student’s new vaccination status.
 
@@ -151,12 +151,7 @@ In case you'd like to contribute or squash a bug, just open a pull request!
 
 ## Developers <a name="devs"></a>
 
-**Parth Sharma** (Frontend Developer)  
-**Mohit Makwana** (Backend Developer)
-
-**Nidheesh Jain** (Frontend Mentor)  
-**Anshal Shukla** (Backend Mentor)  
-**Darsh Mishra** (Backend Mentor)
+*Hema 
 
 ## License <a name="lic"></a>
 
